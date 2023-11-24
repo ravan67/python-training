@@ -1,0 +1,11 @@
+There are Basic 5 Types Of Functions Are Available In Python :
+
+1:- Using re.search() Function.
+
+2:- Using re.match() Function.
+
+3:- Using re.fullmatch() Function.
+
+4:- Using re.findall() Function.
+
+5:- Using re.finditer() Function.
